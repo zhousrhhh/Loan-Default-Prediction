@@ -1,2 +1,10 @@
 # Loan-Default-Prediction
-Loan-Default-Prediction
+Machine learning techniques are increasingly being used in the loan default prediction. When constructing a predictive model, it is very important to extract the useful features from the loan and borrower data.
+
+> Objectives: The [first report](1.Feature Engineering-and-Exploratory-Data-Analysis.ipynb) uses a hypothetical loan dataset to conduct the Exploratory Data Analysis (EDA) and Feature Engineering (FE) process for loan default prediction, and then builds a simple logistic regression model, and measures the model improvement after the feature transformation.
+> The [second report](2.Loan-Default-Prediction-supervised-machine-learning-I.ipynb) uses a hypothetical loan dataset for loan default prediction. By using supervised machine learning (Random Forest), different methods (inlcuding feature engineering, sampling methods, and hyper-parameters tuning) will be tested to improve the model performance.
+> The [third report](3.Loan-Default-Prediction-supervised-machine-learning-II.ipynb) uses a hypothetical loan dataset for loan default prediction. By using supervised machine learning (GBM and Deep Learning), different methods (inlcuding feature engineering, sampling methods, and hyper-parameters tuning) will be tested to improve the model performance.
+> This [forth report](4.Loan-Default-Prediction-supervised-machine-learning-III.ipynb) uses a hypothetical loan dataset for loan default prediction. By using supervised machine learning (GLM and AutoML), different methods (inlcuding feature engineering, sampling methods, and hyper-parameters tuning) will be tested to improve the model performance.
+> After using supervised machine learning (Random Forest) to build the prediction model, SHAP values will be incorporated to explain the model. The [fifth report](5.Model-Explanation-with-SHAP-Value.ipynb) demonstrates the model explanation.
+
+> Dataset: The dataset contains information on loan application details, borrower's credit history from Credit Bureau, borrower's financial query records, borrower's call records, and third-party data.

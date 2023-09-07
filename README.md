@@ -1,5 +1,5 @@
 # Loan-Default-Prediction
-Machine learning techniques are increasingly being used in the loan default prediction. When constructing a predictive model, it is very important to extract the useful features from the loan and borrower data.
+Machine learning techniques are increasingly being used in the loan default prediction. When constructing a predictive model, it is very important to extract the useful features from the loan and borrower data. 
 
 > Objectives: The [first report](1.Feature-Engineering-and-Exploratory-Data-Analysis.ipynb) uses a hypothetical loan dataset to conduct the Exploratory Data Analysis (EDA) and Feature Engineering (FE) process for loan default prediction, and then builds a simple logistic regression model, and measures the model improvement after the feature transformation.
 > The [second report](2.Loan-Default-Prediction-supervised-machine-learning-I.ipynb) uses a hypothetical loan dataset for loan default prediction. By using supervised machine learning (Random Forest), different methods (inlcuding feature engineering, sampling methods, and hyper-parameters tuning) will be tested to improve the model performance.
